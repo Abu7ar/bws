@@ -1,0 +1,112 @@
+.container-fluid{
+    background-color: rgb(214, 7, 7);
+}
+.container-fluid img{
+    background-color: darkolivegreen;
+
+}
+.carousel-inner img{
+    width: 150px;
+    margin-top: 10px;
+}
+.nav-item{
+    margin-left: 50px;
+}
+.img img{
+    gap: 2px;
+}
+/* Basic CSS styling for footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #222;
+    color: white;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #222;
+    color: white;
+}
+
+.footer-section {
+    flex-basis: 25%;
+    margin-bottom: 20px;
+    background-color: #222;
+}
+
+.footer-section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
+
+.footer-section a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+.footer-section p {
+    margin-bottom: 10px;
+    color: white;
+}
+
+.footer-section form {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.footer-section input[type="email"] {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.footer-section button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.footer-section button:hover {
+    background-color: #45a049;
+}
+
+.copyright-bar {
+    background-color: #222;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.copyright-bar p {
+    margin: 0;
+    color: #fff;
+    font-size: 14px;
+}
